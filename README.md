@@ -1,7 +1,5 @@
 # vi-no-busao
 
-Protótipo do APP ---> https://uploaddeimagens.com.br/imagens/prototipo-png--2
-
 
 
 
